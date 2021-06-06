@@ -1,4 +1,4 @@
-# Blocky-Ball-Feedback
+# Blocky Ball Feedback
 
 <a href="https://store.steampowered.com/app/1343040/Blocky_Ball/"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://discord.com/invite/PcTANCn" target="_blank"><img alt="Discord" src="https://discordapp.com/api/guilds/509906076309651467/widget.png?style=shield"/></a>
