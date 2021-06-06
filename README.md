@@ -13,8 +13,6 @@
   * Welcome others and are open-minded. Remember that this is a community we
   build together 💪.
 
-  To get started, comment below with an introduction of yourself and tell us about what you do with this community.
-
 ^ This was the default message that GitHub provided.  I like tho so I'm keeping it :).
 
 Feel free to go to the [Discussions Tab](https://github.com/Lange-Studios/Blocky-Ball-Feedback/discussions) to create new posts, comment, and upvote existing things that you want to have done for Blocky Ball!
