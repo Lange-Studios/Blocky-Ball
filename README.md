@@ -5,6 +5,11 @@
 <a href="https://store.steampowered.com/app/1343040/Blocky_Ball/"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://discord.com/invite/PcTANCn" target="_blank"><img alt="Discord" src="https://discordapp.com/api/guilds/509906076309651467/widget.png?style=shield"/></a>
 
+This is here for testing.  We might use it at a later date.  For now, feel free to use our [Discord Server](https://discordapp.com/api/guilds/509906076309651467/widget.png?style=shield) for getting in contact with us!  We could love to hear your ideas!
+
+<a href="https://discord.com/invite/PcTANCn" target="_blank"><img alt="Discord" src="https://discordapp.com/api/guilds/509906076309651467/widget.png?style=banner2"/></a>
+
+<s>
 ## 👋 Welcome!
   We’re using [Discussions](https://github.com/Lange-Studios/Blocky-Ball-Feedback/discussions) as a place to connect with other members of our community. We hope that you:
   * Ask questions you’re wondering about.
@@ -18,3 +23,4 @@
 Feel free to go to the [Discussions Tab](https://github.com/Lange-Studios/Blocky-Ball-Feedback/discussions) to create new posts, comment, and upvote existing things that you want to have done for Blocky Ball!
 
 Keep being awesome u ballers! 😎
+</s>
