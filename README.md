@@ -7,7 +7,7 @@
 
 This is here for testing.  We might use it at a later date.  For now, feel free to use our [Discord Server](https://discordapp.com/api/guilds/509906076309651467/widget.png?style=shield) for getting in contact with us!  We would love to hear your ideas!
 
-<a href="https://discord.com/invite/PcTANCn" target="_blank"><img alt="Discord" src="https://discordapp.com/api/guilds/509906076309651467/widget.png?style=banner2"/></a>
+<a href="https://discord.com/invite/PcTANCn" target="_blank"><img alt="Discord" src="https://discordapp.com/api/guilds/509906076309651467/widget.png?style=banner3"/></a>
 
 <s>
 ## 👋 Welcome!
